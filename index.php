@@ -25,7 +25,7 @@ include('includes/navbar.php');
         </div>
 
         <div class="carousel-item active">
-          <img src="assets/img/bg3.jpg" alt="">
+          <img src="assets/img/bagcover.jpeg" alt="">
         </div>
 
         <div class="carousel-item">
@@ -33,11 +33,11 @@ include('includes/navbar.php');
         </div>
 
         <div class="carousel-item">
-          <img src="assets/img/bmaxibanner.png" alt="">
+          <img src="assets/img/bagcover1.jpeg" alt="">
         </div>
 
         <div class="carousel-item">
-          <img src="assets/img/bg5.jpg" alt="">
+          <img src="assets/img/bookscover2.jpeg" alt="">
         </div>
 
         <a class="carousel-control-prev" href="#hero-carousel" role="button" data-bs-slide="prev">

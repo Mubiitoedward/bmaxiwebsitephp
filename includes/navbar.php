@@ -38,9 +38,9 @@
   <header id="header" class="header d-flex align-items-center fixed-top">
     <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
   
-      <a href="home.php" class="logo d-flex align-items-center">
+      <a href="index.php" class="logo d-flex align-items-center">
          
-         <img src="assets/img/Bmaxilogofinal.png" alt="">
+         <img src="assets/img/logofinal2.png" alt="">
   
          <h1 class="sitename">Bmaxi Graphics Ltd</h1> <span>.</span>  
       </a>
