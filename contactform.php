@@ -40,7 +40,7 @@ try {
     $mail->send();
 
     // Redirect to a "sent" confirmation page
-    header("Location: sent.html");
+    header("Location: sent.php");
     exit();
 } catch (Exception $e) {
     // Handle any errors here
