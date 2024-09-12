@@ -187,39 +187,38 @@ include('includes/navbar.php');
           <p class="lead text-center text-black mb-5">
             We offer a comprehensive range of services designed to elevate your brand and business.
           </p>
-          <div class="row g-4">
-            <div class="col-md-6 col-lg-2">
+          <div class="row text-center g-4">
+            <!-- <div class="col-md-6 col-lg-2">
               
-            </div>
+            </div> -->
   
-            <div class="col-md-6 col-lg-3">
+            <div class="col-md">
               <div class="card bg-light" style="width: 18rem;">
                 <img src="assets/img/wristbands4.jpeg" class="card-img-top" alt="...">
                 <div class="card-body">
                   <h5 class="text-center text-black">Designing</h5>
                   <p class="card-text">Our expert designers transform ideas into impactful 
                     Experiences </p>
-                    <a href="servicedetails.php" >
+                    <a href="servicedetails.php" class="btn btn-primary" >
                       <i class="bi bi-chevron-right"></i> Read More
                     </a>
                 </div>
               </div>
             </div>
-  
-            <div class="col-md-6 col-lg-3">
+            <div class="col-md">
               <div class="card bg-light" style="width: 18rem;">
                 <img src="assets/img/branding4.jpeg" class="card-img-top" alt="...">
                 <div class="card-body">
                   <h5 class="text-center text-black">Branding</h5>
                   <p class="card-text">Our branding services are designed to craft a unique story. </p>
-                     <a href="servicedetails.php">
+                     <a href="servicedetails.php" class = "btn btn-primary">
                       <i class="bi bi-chevron-right"></i> Read More
                     </a>
                 </div>
               </div>
             </div>
   
-            <div class="col-md-6 col-lg-3">
+            <div class="col-md">
               <div class="card bg-light " style="width: 18rem;">
                 <img src="assets/img/idpacks.jpeg" class="card-img-top" alt="...">
                 <div class="card-body">
@@ -228,7 +227,7 @@ include('includes/navbar.php');
                     ensure premium printing 
                   </p>
                     
-                    <a href="servicedetails.php">
+                    <a href="servicedetails.php" class = "btn btn-primary" >
                       <i class="bi bi-chevron-right"></i> Read More
                     </a>
                 </div>
