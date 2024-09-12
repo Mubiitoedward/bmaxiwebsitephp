@@ -92,8 +92,12 @@ include('includes/navbar.php');
                   <input type="email" class="form-control" name="email" placeholder="Email" required="">
                 </div>
 
-                <div class="col-12">
+                <!-- <div class="col-12">
                   <input type="text" class="form-control" name="phone" placeholder="Phone" required="">
+                </div> -->
+
+                <div class="col-md-12">
+                  <input type="text" class="form-control" name="subject" placeholder="Subject" required="">
                 </div>
 
                 <div class="col-12">
